@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MJan79
-- 👀 I’m interested in SyberSec and programming.
+- 👀 I’m interested in CyberSec and programming.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on my projects.
 - 📫 How to reach me: jmar.79@icloud.com
